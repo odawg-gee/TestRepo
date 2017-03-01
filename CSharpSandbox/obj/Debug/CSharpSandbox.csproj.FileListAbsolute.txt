@@ -1,0 +1,6 @@
+c:\users\omid\documents\visual studio 2015\Projects\CSharpSandbox\CSharpSandbox\bin\Debug\CSharpSandbox.exe.config
+c:\users\omid\documents\visual studio 2015\Projects\CSharpSandbox\CSharpSandbox\bin\Debug\CSharpSandbox.exe
+c:\users\omid\documents\visual studio 2015\Projects\CSharpSandbox\CSharpSandbox\bin\Debug\CSharpSandbox.pdb
+c:\users\omid\documents\visual studio 2015\Projects\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.exe
+c:\users\omid\documents\visual studio 2015\Projects\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.pdb
+C:\Users\omid\Documents\Visual Studio 2015\Projects\CSharpSandbox\CSharpSandbox\obj\Debug\CSharpSandbox.csprojResolveAssemblyReference.cache
